@@ -1,4 +1,5 @@
 # Goal: Build the image for DevBoard Frontend and Push to Docker Hub, after linting the code
+#lINTER
 name: CI
 
 on:
